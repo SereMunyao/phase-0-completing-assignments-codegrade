@@ -176,7 +176,7 @@ This assignment
 > from the AssertionError shown above, go back to the Node.js installation
 > lesson for your OS. Go through the steps provided there to make sure Node was
 > installed correctly. If you're still receiving different errors, we recommend
-> going back through all local environment setup instructions again to ensure
+> going back through all local environment setup instructions 
 > everything is set up properly.
 
 Although you passed one test, there is still one test not passing. The terminal
